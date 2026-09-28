@@ -44,7 +44,7 @@ An interactive, end-to-end Machine Learning web application designed to detect f
 
 <img width="82%" height="82%" alt="Screenshot 2026-09-29 020119" src="https://github.com/user-attachments/assets/807d8339-7c4c-41ff-b749-8d4a0d99f96b" />  <img width="82%" height="82%" alt="Screenshot 2026-09-29 015400" src="https://github.com/user-attachments/assets/56e8eeb9-9f52-4285-9196-0956229d86a3" />
 
-<img width="40%" height="40%" alt="Screenshot 2026-09-29 015912" src="https://github.com/user-attachments/assets/741cacef-78d3-4211-bf1a-10815bef6f07" />    <img width="40%" height="40%" alt="Screenshot 2026-09-29 015433" src="https://github.com/user-attachments/assets/9909fa09-eff6-44cf-bfa6-2e8bf1514921" />
+<img width="40%" height="40%" alt="Screenshot 2026-09-29 015912" src="https://github.com/user-attachments/assets/741cacef-78d3-4211-bf1a-10815bef6f07" />  <img width="40%" height="40%" alt="Screenshot 2026-09-29 015433" src="https://github.com/user-attachments/assets/9909fa09-eff6-44cf-bfa6-2e8bf1514921" />
 
 
 ---
