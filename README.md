@@ -90,6 +90,6 @@ streamlit run app.py
 ## 👤 Author & Contact
 
 - **Developer:** [Khan Abdullah Junaid]
-- **GitHub:** [www.linkedin.com/in/khan-abdullah-junaid-29a567439](https://github.com/your-username)
-- **LinkedIn:** [www.linkedin.com/in/khan-abdullah-junaid-29a567439](https://linkedin.com/in/your-profile)
+- **GitHub:** [www.linkedin.com/in/khan-abdullah-junaid-29a567439]
+- **LinkedIn:** [www.linkedin.com/in/khan-abdullah-junaid-29a567439]
 - **Email:** [khan.abdullah.12055@gmail.com]
