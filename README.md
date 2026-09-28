@@ -89,7 +89,7 @@ streamlit run app.py
 
 ## 👤 Author & Contact
 
-- **Developer:** [Your Name]
-- **GitHub:** [@your-username](https://github.com/your-username)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **Email:** [Your Email Address]
+- **Developer:** [Khan Abdullah Junaid]
+- **GitHub:** [www.linkedin.com/in/khan-abdullah-junaid-29a567439](https://github.com/your-username)
+- **LinkedIn:** [www.linkedin.com/in/khan-abdullah-junaid-29a567439](https://linkedin.com/in/your-profile)
+- **Email:** [khan.abdullah.12055@gmail.com]
