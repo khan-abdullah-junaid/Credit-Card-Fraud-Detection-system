@@ -40,11 +40,19 @@ An interactive, end-to-end Machine Learning web application designed to detect f
 
 ---
 
+## 📱Screenshots
+
+<img width="1917" height="985" alt="Screenshot 2026-09-29 015400" src="https://github.com/user-attachments/assets/53350404-2c46-4338-8cd8-13f6041eb6e9" /><img width="1917" height="980" alt="Screenshot 2026-09-29 020119" src="https://github.com/user-attachments/assets/807d8339-7c4c-41ff-b749-8d4a0d99f96b" />
+<img width="650" height="872" alt="Screenshot 2026-09-29 015912" src="https://github.com/user-attachments/assets/741cacef-78d3-4211-bf1a-10815bef6f07" /><img width="648" height="867" alt="Screenshot 2026-09-29 015433" src="https://github.com/user-attachments/assets/9909fa09-eff6-44cf-bfa6-2e8bf1514921" />
+![Uploading Screenshot 2026-09-29 015400.png…]()
+
+
+---
 ## 🚀 Getting Started Locally
 
 ### 1. Clone or Download the Repository
 ```bash
-git clone https://github.com/<your-username>/<your-repository-name>.git
+git clone https://github.com/<khan-abdullah-junaid>/<Credit-Card-Fraud-Dtection-system>.git
 cd <your-repository-name>
 ```
 
@@ -90,6 +98,6 @@ streamlit run app.py
 ## 👤 Author & Contact
 
 - **Developer:** [Khan Abdullah Junaid]
-- **GitHub:** [[www.linkedin.com/in/khan-abdullah-junaid-29a567439]
+- **GitHub:** [https://github.com/khan-abdullah-junaid]
 - **LinkedIn:** [www.linkedin.com/in/khan-abdullah-junaid-29a567439]
 - **Email:** [khan.abdullah.12055@gmail.com]
